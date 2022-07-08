@@ -38,9 +38,9 @@ Noro Chalise
 
 ## Reference
 
-2. [Streamlit Cheetsheet](https://docs.streamlit.io/library/cheatsheet)
+1. [Streamlit Cheetsheet](https://docs.streamlit.io/library/cheatsheet)
 
-1. [Coding is Fun Youtube Channel](https://www.youtube.com/c/CodingIsFun)
+2. [Coding is Fun Youtube Channel](https://www.youtube.com/c/CodingIsFun)
 
 
 3. [ Thu Vu data analytics Youtube Channel](https://www.youtube.com/c/Thuvu5)
