@@ -20,14 +20,14 @@ st.set_page_config(
 
 
 
-# # Hide menu ------------------
-# hide_menu_style = """
-#         <style>
-#         #MainMenu {visibility: hidden;}
-#         #val {color: green;}
-#         </style>
-#         """
-# st.markdown(hide_menu_style, unsafe_allow_html=True)
+# Hide menu ------------------
+hide_menu_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        #val {color: green;}
+        </style>
+        """
+st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 
 
