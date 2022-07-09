@@ -29,7 +29,7 @@ Some command can be different based on the OS so please  consider it.
 
 ## Data Collection and Data Analysis
 
-To collect a tseries youtube channel dataset I used [youtube api](https://developers.google.com/youtube/v3). For data scraping from youtube api you can check inside of notebook folder. There are two notebook. One for data scraping and data cleaning and another one for data analysis.
+To collect a tseries youtube channel dataset I used [youtube api](https://developers.google.com/youtube/v3). For data scraping from youtube api you can check inside of notebook folder. There is Tseries_Youtube_Channel_Analysis.ipynb. This is notebook for data collection and analysis. 
 
 ## Author
 Noro Chalise
