@@ -3,8 +3,12 @@ T-Series channel on YouTube primarily shows music videos as well as film trailer
 
 During this project I collected data from YouTube api and did some analysis. After that, I created an interactive web app dashboard using python. Streamlit and plotly. 
 
+## Demo
+[Interactive T-series Youtube channel Analysis Dashboard Streamlitapp](https://t-series-interactive-dashboard.herokuapp.com/)
+
 ## Screenshot
 ![This is an image](screenshot/Screenshot.png)
+
 ## Prerequisites
 Install Python3 in your machine.
 
